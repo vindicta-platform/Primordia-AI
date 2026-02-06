@@ -2,7 +2,7 @@
 
 > **Vision**: The Stockfish of Warhammer — deterministic tactical engine  
 > **Status**: Pre-Alpha  
-> **Last Updated**: 2026-02-04
+> **Last Updated**: 2026-02-05
 
 ---
 
@@ -12,12 +12,12 @@
 > **Master Roadmap**: https://github.com/vindicta-platform/.github/blob/master/ROADMAP.md
 
 ### Week 1: Feb 4-10 — Heuristic Evaluation
-| Day | Task | Priority |
-|-----|------|----------|
-| Mon 4 | Define heuristic evaluation interface | P1 |
-| Tue 5 | Continue heuristic evaluation | P1 |
-| Wed 6 | Opening book database design | P1 |
-| Thu 7 | DuckDB setup for opening book | P1 |
+| Day | Task | Priority | Status |
+|-----|------|----------|--------|
+| Mon 4 | Define heuristic evaluation interface | P1 | [/] |
+| Tue 5 | Continue heuristic evaluation | P1 | [/] |
+| Wed 6 | Opening book database design | P1 | [x] ✅ |
+| Thu 7 | DuckDB setup for opening book | P1 | [ ] |
 
 ### Week 2: Feb 11-17 — State Encoding
 | Day | Task | Priority |
@@ -105,7 +105,7 @@ Deliver a production-ready tactical AI engine that evaluates game positions, cal
 ## v0.1.5 — Opening Book Database (Target: Feb 24, 2026)
 
 ### Deliverables
-- [ ] Define deployment recommendation schema
+- [x] Define deployment recommendation schema ✅
 - [ ] Historical game storage (DuckDB)
 - [ ] Faction archetype matching
 - [ ] List similarity scoring

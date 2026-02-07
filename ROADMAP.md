@@ -2,7 +2,7 @@
 
 > **Vision**: The Stockfish of Warhammer — deterministic tactical engine  
 > **Status**: Pre-Alpha  
-> **Last Updated**: 2026-02-04
+> **Last Updated**: 2026-02-05
 
 ---
 
@@ -14,9 +14,9 @@
 ### Week 1: Feb 4-10 — Heuristic Evaluation
 | Day | Task | Priority |
 |-----|------|----------|
-| Mon 4 | Define heuristic evaluation interface | P1 |
-| Tue 5 | Continue heuristic evaluation | P1 |
-| Wed 6 | Opening book database design | P1 |
+| Mon 4 | Define heuristic evaluation interface | P1 | [x] |
+| Tue 5 | Continue heuristic evaluation | P1 | [x] |
+| Wed 6 | Opening book database design | P1 | [x] |
 | Thu 7 | DuckDB setup for opening book | P1 |
 
 ### Week 2: Feb 11-17 — State Encoding
